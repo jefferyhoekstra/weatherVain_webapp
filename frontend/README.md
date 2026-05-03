@@ -1,6 +1,6 @@
-# Weathervane Frontend
+﻿# WeatherVain Frontend
 
-React + Vite frontend for the Weathervane webapp.
+React + Vite frontend for the WeatherVain web app.
 
 ## Status
 

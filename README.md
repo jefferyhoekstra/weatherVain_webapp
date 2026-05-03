@@ -1,6 +1,6 @@
-# Weathervane Webapp
+﻿# WeatherVain Web App
 
-Weathervane is a React-based web application (built with Vite) for exploring weather information by town/city.
+WeatherVain is a React-based web application (built with Vite) for exploring weather information by town/city.
 
 ## Project status
 
@@ -42,4 +42,4 @@ Common scripts (run in `frontend/`):
 
 ## Contributing
 
-If you’re contributing, please keep changes focused and run `npm run lint` before opening a PR.
+Please keep changes focused and run `npm run lint` before opening a PR.
